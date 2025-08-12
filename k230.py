@@ -268,3 +268,4 @@ finally:
     time.sleep_ms(100)
     # 释放媒体缓冲区
     MediaManager.deinit()
+
